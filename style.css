@@ -6,9 +6,10 @@
 }
 
 body {
-    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
 }
+
 
 /* Header */
 .header {
@@ -97,3 +98,4 @@ body {
     padding: 20px;
     background: rgba(0,0,0,0.4);
 }
+
